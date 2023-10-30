@@ -48,4 +48,4 @@
   </body>
 </html>
 ```
-![img](gambar
+![img](Gambar/Form%20validasi.PNG)
